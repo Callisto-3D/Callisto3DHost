@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Callisto 3D",
+    "description1": "Dijital Dünya'nın Anahtarı",
+    "description": "Sanal dünyaya geçiş sandığınızdan daha kolay.",
+    "image": "6.svg",
+    "hakkimizda1": "Yeni bir çağın eşiğindeyiz. Dijital teknolojiler doğrudan üretim ilişkilerine dâhil oldukları ve üretim biçiminin değişmesine etki ettikleri için çağ değişiyor. Değişen çağ yeni gereksinimler doğuruyor. Bu noktada güncel teknolojileri öğrenmek, üretmek ve sürekli güncel kalmak oldukça önemli bir hale geliyor.",
+    "hakkimizda2": "Günümüzde popüler olan Digital Twin, Sanal Tur, Metaverse, AR & VR, BIM gibi konularda uzun yıllardır çalışıyor ve global ölçekte projeler üretiyoruz. Özellikle 3 boyutta edindiğimiz bilgi ve birikimimizi yeni çağa uyumlu, kolay anlaşışabilir, erişilebilir ve geliştirilebilir güce dönüştürüyoruz. Callisto 3D ailesi olarak biriktirdiğimiz tecrübemiz ve alanında uzman çalışanlarımız ile dijital çağda rehberiniz olmaya hazırız.",
+    "contactmessage": "Bize Ulaşın",
+    "email": "callisto3dservices@gmail.com",
+    "phone": "+90 537 595 63 32",
+    "address": {
+      "street": "Güneş 1 Sokak, No:1-A",
+      "city": "Bahçelievler",
+      "state": "İstanbul",
+      "zip": "34180"
+    },
+    "website": "http://www.callisto3d.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/3dcallisto",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Callisto 3D Ekibi olarak sizin için yapabileceklerimiz:",
+    "matterport": [
+      {
+        "school": "Mekanlarınızın Dijital İkizi",
+        "description": "Matterport, açık alanların ya da kapalı mekanların dijital ikizi çıkarılarak sanal tur yapabileceğiniz 3D ortamların oluşturulmasını sağlayan sistemdir. Farklı noktalardan yapılan çekimler, özel programlarda bir araya getirilerek 3 boyutlu ortamlar oluşturulmaktadır."
+      },
+      {
+        "school": "Ne elde edersiniz?",
+        "dijitalkopya": "Link ile paylaşılan dijital kopya",
+        "erisilebilirlik": "Tüm cihazlardan kolay erişim",
+        "akillietiket": "Akıllı etiketler ile kullanıcı bilgilendirme sistemi",
+        "olcualma": "Model içerisinde hassas ölçüm yapabilme",
+        "vrdestek": "VR desteği ile sanal tur imkanı",
+        "webtrafik": "Dijital ikizin web trafik bilgilerini edinebilme"
+      }
+    ],
+    "digitalshowroom": [
+      {
+        "gallery": "7/24 Online Galeri",
+        "description": "Dijital dünya ve gelişen teknolojiler ile yüksek maliyetli sergi ve fuar alanları yerini dijital galerilere bıraktı. Callisto 3D olarak uzman mühendis kadromuz ve kullandığımız güncel teknolojiler sayesinde 7/24 online galerinizi oluşturuyor ve dünyanın dört bir tarafında geniş kitlelere ulaşmanızı sağlıyoruz. "
+      },
+      {
+        "gallery": "3D Galerim ile",
+        "urunlistesi": "Ürünlerimi mağazadan dijital ortama taşıyabilirim.",
+        "sanalmagaza": "Web ortamı sayesinde müşteri potansiyelimi arttırıp daha fazla tanınabilirim.",
+        "sanaldeneyim": "3D ürün deneyimi ile online satışlarımı arttırabilirim.",
+        "eticaretsitesi": "Ürünlerinizi tek tıkla kendi web siteme yönlendirebilirim."
+      }
+    ],
+    "gisservices": [
+      {
+        "cbs": "Coğrafi Bilgi Sistemleri",
+        "description": "Coğrafi Bilgi Sistemi Çözümlerimiz mekânsal verilerin üretilmesi, veri tabanı sistemleri içerisinde yönetilmesi ve farklı kullanıcıların farklı amaçlarına hizmet etmesi için oluşturulmaktadır. Oluşturduğumuz cbs yapısı ile şehir planlama ve yönetimi, kargo sektörü, ulaşım planlaması, tesis yönetimi gibi bir çok farklı alanda hizmet vermekteyiz. Callisto ekibi olarak hem 2 boyutta hem 3 boyutta verdiğimiz CBS hizmeti ile klasik yöntemleri aşıp daha hızlı, akılcı ve akılda kalıcı sonuçlar elde etmenizi amaçlıyoruz."
+      }
+    ],
+    "skills": [
+      {
+        "name": "MATTERPORT",
+        "level": "97%"
+      },
+      {
+        "name": "BIM",
+        "level": "95%"
+      },
+      {
+        "name": "REALITY CAPTURE",
+        "level": "92%"
+      },
+      {
+        "name": "3B MODELLEME",
+        "level": "90%"
+      },
+      {
+        "name": "AR & VR",
+        "level": "80%"
+      },
+      {
+        "name": "DRONE & LIDAR",
+        "level": "80%"
+      },
+      {
+        "name": "CBS & VERI TABANLARI",
+        "level": "95%"
+      },
+      {
+        "name": "3B ŞEHİR PLANLAMA",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "1+1 Örnek Daire",
+        "category": "Matterport Services",
+        "image": "1+1 Örnek Daire.png",
+        "url": "https://my.matterport.com/show/?m=ZdADKbDNdTf"
+      },
+      {
+        "title": "2+1 Örnek Daire",
+        "category": "Matterport Services",
+        "image": "2+1 Örnek Daire.png",
+        "url": "https://my.matterport.com/show/?m=g64umBmtNeN"
+      },
+      {
+        "title": "3+1 Örnek Daire",
+        "category": "Matterport Services",
+        "image": "3+1 Örnek Daire.png",
+        "url": "https://my.matterport.com/show/?m=yuy1fSmgn1F"
+      },
+      {
+        "title": "Örnek Villa",
+        "category": "Matterport Services",
+        "image": "Örnek Villa.png",
+        "url": "https://my.matterport.com/show/?m=UrVz34qjDDv"
+      }
+    ]
+  }
+}

@@ -8,7 +8,7 @@
     "hakkimizda2": "Günümüzde popüler olan Digital Twin, Sanal Tur, Metaverse, AR & VR, BIM gibi konularda uzun yıllardır çalışıyor ve global ölçekte projeler üretiyoruz. Özellikle 3 boyutta edindiğimiz bilgi ve birikimimizi yeni çağa uyumlu, kolay anlaşışabilir, erişilebilir ve geliştirilebilir güce dönüştürüyoruz. Callisto 3D ailesi olarak biriktirdiğimiz tecrübemiz ve alanında uzman çalışanlarımız ile dijital çağda rehberiniz olmaya hazırız.",
     "contactmessage": "Bize Ulaşın",
     "email": "callisto3dservices@gmail.com",
-    "phone": "+90 537 595 63 32",
+    "phone": "+90 532 697 90 57",
     "address": {
       "street": "Güneş 1 Sokak, No:1-A",
       "city": "Bahçelievler",
@@ -113,28 +113,52 @@
   "portfolio": {
     "projects": [
       {
-        "title": "1+1 Örnek Daire",
+        "title": "Mudo Concept",
         "category": "Matterport Services",
-        "image": "1+1 Örnek Daire.png",
-        "url": "https://my.matterport.com/show/?m=ZdADKbDNdTf"
+        "image": "mudo-concept.jpg",
+        "url": "https://my.matterport.com/show/?play=1&share=0&m=CDsRgbqbGMx"
       },
       {
-        "title": "2+1 Örnek Daire",
+        "title": "Kılıç Gold",
         "category": "Matterport Services",
         "image": "2+1 Örnek Daire.png",
         "url": "https://my.matterport.com/show/?m=g64umBmtNeN"
       },
       {
-        "title": "3+1 Örnek Daire",
+        "title": "Sirius Town",
         "category": "Matterport Services",
-        "image": "3+1 Örnek Daire.png",
-        "url": "https://my.matterport.com/show/?m=yuy1fSmgn1F"
+        "image": "sirius-town.jpg",
+        "url": "https://my.matterport.com/show/?play=1&share=0&m=upVenPjMJPW"
       },
       {
-        "title": "Örnek Villa",
+        "title": "Deniz İstanbul",
         "category": "Matterport Services",
         "image": "Örnek Villa.png",
         "url": "https://my.matterport.com/show/?m=UrVz34qjDDv"
+      },
+      {
+        "title": "Queen Villas",
+        "category": "Matterport Services",
+        "image": "queen-villas-d.jpg",
+        "url": "https://my.matterport.com/show/?m=u2jcHTJWqeM"
+      },
+      {
+        "title": "Sky Suits",
+        "category": "Matterport Services",
+        "image": "sky-suit.jpg",
+        "url": "https://my.matterport.com/show/?play=1&share=0&m=FbRX1RRL6Pt"
+      },
+      {
+        "title": "Luxera Towers",
+        "category": "Matterport Services",
+        "image": "luxera-towers.jpg",
+        "url": "https://my.matterport.com/show/?play=1&share=0&m=6jENHDNQmW4"
+      },
+      {
+        "title": "Naturelife Bungalows",
+        "category": "Matterport Services",
+        "image": "naturelife-1.jpg",
+        "url": "https://my.matterport.com/show/?play=1&share=0&m=U7bh5w4bVGM"
       }
     ]
   }
